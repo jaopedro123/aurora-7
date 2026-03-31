@@ -182,10 +182,10 @@ Para testar o comportamento do sistema em cenários de falha, edite os valores d
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor - João Pedro
 
 Desenvolvido como atividade acadêmica integradora.  
-Curso: **[Ciencia da computacao]** — **[FIAP]**  
+Curso: **[Ciência da Computação]** — **[FIAP]**  
 Período: **[2026/ 1º (semestre/fase)]**
 
 ---
